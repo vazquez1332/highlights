@@ -1,0 +1,1 @@
+Exercises done in my first year of university in algorithms and procedural programming
