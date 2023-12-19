@@ -1,0 +1,2 @@
+Different abstract data structures that allow to perform algorithms in a more efficient way.
+In the files the specification of each one is made with its attributes and characteristic methods as well as the different ways to represent them. 
